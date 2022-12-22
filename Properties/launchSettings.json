@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TrimVideo": {
+      "commandName": "Project",
+      "commandLineArgs": "-id \"test\" -od \"out\""
+    }
+  }
+}

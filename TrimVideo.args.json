@@ -1,0 +1,18 @@
+{
+  "FileVersion": 2,
+  "Id": "7ddff269-20bd-41cf-afe1-a34b8090385d",
+  "Items": [
+    {
+      "Id": "313fd672-0dad-4279-b51d-09ab9ef1e36a",
+      "Command": "-id \"test\""
+    },
+    {
+      "Id": "4c08f284-aed9-4a48-ae47-3e6070b02f12",
+      "Command": "-od \"out\""
+    },
+    {
+      "Id": "4ba16a00-2657-4e2b-a5ae-fa4d3f47e67d",
+      "Command": "-cuda off"
+    }
+  ]
+}
